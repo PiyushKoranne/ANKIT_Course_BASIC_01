@@ -1,0 +1,41 @@
+//*
+    ANKIT - BASIC COURSE 01
+    Date: 30-09-2024
+    Module - 01
+
+
+    RoadMap:
+
+    1. HTML, CSS, JS
+        1.1 Project
+
+    2. JAVASCRIPT ADVANCE
+        2.1 Animation, Responsive
+        2.2 Project
+
+    --------------------------
+
+    ANKIT - BASIC COURSE 01
+    Date: 30-09-2024
+    Module - 01
+
+    1. Node JS
+        1.1 Server Project
+    
+    2. React JS
+        2.1 Project
+        2.2 Advance Rendering  (Hooks, State Management)
+        2.3 Tailwind CSS, UI
+    
+    3. Frontend - Backend
+        3.1 DataBase : MongoDB
+        3.2 Database Management
+        3.3 Login / Register / Forgot Password / Email / OTP
+        3.4 Payment Gateway
+
+    -----------------------------------
+
+    Project Phase 
+
+    
+*//
